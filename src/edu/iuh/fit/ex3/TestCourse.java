@@ -1,13 +1,13 @@
 package edu.iuh.fit.ex3;
 /**
- * @description: This class serves as a test for the `CourseList` class. It demonstrates
-various functionalities such as adding courses, removing a course, searching for courses
-by ID, title, and department, finding courses with the maximum credits, determining the
-department with the most courses, and sorting courses by their names. It also prints the
- results of these operations to the console.
- * @author: Trần Văn Thắng
- * @version: 1.0
- * @created: 27/08/2024
+ * This class serves as a test for the `CourseList` class. It demonstrates
+ * various functionalities such as adding courses, removing a course, searching for courses
+ * by ID, title, and department, finding courses with the maximum credits, determining the
+ * department with the most courses, and sorting courses by their names. It also prints the
+ * results of these operations to the console.
+ * @author Trần Văn Thắng
+ * @version 1.0
+ * @since 27/08/2024
  */
 public class TestCourse {
     public static void main(String[] args) {
